@@ -3,7 +3,7 @@ public class Students {
     private int year;
     private static int nrOfStudents = 0;
     
-    public Students(String n, String i, int y) {
+    private Students(String n, String i, int y) {
         name = n;
         id = i;
         year = y;
@@ -23,7 +23,6 @@ public class Students {
 
 class MainClass {
     public static void main(String[] args) {
-        Students student = new Students("Ana", "LM0000", 2);
-        System.out.println(Students.getNrOfStudents());
+        
     }
 }
