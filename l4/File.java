@@ -1,3 +1,6 @@
+import l8.File;
+import l8.Folder;
+
 public class File {
     private String information;
     private String name;
