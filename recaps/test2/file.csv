@@ -1,0 +1,5 @@
+1,John Doe,25,john.doe@example.com
+2,Jane Smith,30,jane.smith@example.com
+3,Bob Brown,invalid_age,bob.brown@example.com
+4,Invalid Line
+1,Duplicate,50,duplicate@example.com
